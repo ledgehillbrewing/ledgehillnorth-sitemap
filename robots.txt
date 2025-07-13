@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ledgehillbrewing.github.io/ledgehillnorth-sitemap/sitemap.xml
